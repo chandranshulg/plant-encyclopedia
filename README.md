@@ -20,12 +20,12 @@ This is an Online Plant Encyclopedia web application built using Flask and SQLit
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/chandranshulg/online-plant-encyclopedia.git
+    git clone https://github.com/chandranshulg/plant-encyclopedia.git
     ```
    
 2. **Navigate to the project directory:**
     ```bash
-    cd online-plant-encyclopedia
+    cd plant-encyclopedia
     ```
 
 3. **Install the required packages:**
